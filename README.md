@@ -8,3 +8,5 @@
 
 email: cameronlc380@gmail.com
 
+Editing is fun!! 
+Coding is fun to learn
